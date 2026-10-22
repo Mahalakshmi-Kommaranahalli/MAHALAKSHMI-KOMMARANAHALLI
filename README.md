@@ -9,7 +9,7 @@ I'm a Computer Science and Engineering student passionate about **software devel
 🎓 **B.E. Computer Science & Engineering**  
 🏫 **Jain Institute of Technology, Davanagere**  
 
-I believe in **learning by building** — creating projects, experimenting with technologies, solving problems, and turning ideas into practical solutions.
+I believe in **learning by building** - creating projects, experimenting with technologies, solving problems, and turning ideas into practical solutions.
 
 ---
 
@@ -121,7 +121,7 @@ I want to use technology to solve practical problems, create meaningful software
 
 Every project I build is a small part of my engineering journey.
 
-Somewhere along the way, I met someone who made me look at **engineering differently** — not just as a syllabus to complete, but as a skill to practice, a mindset to develop, and a journey where every idea can become something real.
+Somewhere along the way, I met someone who made me look at **engineering differently**-not just as a syllabus to complete, but as a skill to practice, a mindset to develop, and a journey where every idea can become something real.
 
 ### 👨‍💻 Code Blaster
 
@@ -131,7 +131,7 @@ The encouragement to **keep learning, keep building, and keep exploring** became
 
 This project is a small expression of that gratitude.
 
-🌟 **[✨ Code Blaster — Teachers Day](https://mahalakshmi-kommaranahalli.github.io/code-blaster-teachers-day/)**
+🌟 **[✨ Code Blaster-Teachers Day](https://mahalakshmi-kommaranahalli.github.io/code-blaster-teachers-day/)**
 
 > *“Sometimes one person's guidance can change the way you see an entire journey.”*
 
