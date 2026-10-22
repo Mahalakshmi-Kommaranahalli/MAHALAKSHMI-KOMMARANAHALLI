@@ -15,15 +15,15 @@ I believe in **learning by building** — creating projects, experimenting with 
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science & Engineering student
-- 💻 Interested in Software Development and Web Technologies
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🔌 Interested in IoT and Embedded Systems
-- 🚀 Building real-world projects and software solutions
-- 🌱 Continuously improving my programming and development skills
-- 🤝 Interested in collaborating on innovative projects
-- 📚 Creating student-focused learning resources and projects
-- 💡 Learning through projects, experimentation and practical experience
+-  Computer Science & Engineering student
+-  Interested in Software Development and Web Technologies
+-  Exploring Artificial Intelligence & Machine Learning
+-  Interested in IoT and Embedded Systems
+-  Building real-world projects and software solutions
+-  Continuously improving my programming and development skills
+-  Interested in collaborating on innovative projects
+-  Creating student-focused learning resources and projects
+-  Learning through projects, experimentation and practical experience
 
 ---
 
@@ -31,10 +31,10 @@ I believe in **learning by building** — creating projects, experimenting with 
 
 | Project | Description | Live Demo |
 |---|---|---|
-| 🎯 **ARROWHEAD — Infinite Logic** | A minimalist JavaScript logic game focused on patterns, speed, observation and decision-making. | [View Website](https://mahalakshmi-kommaranahalli.github.io/arrowhead/) |
-| 🧠 **Memory Master Game** | An interactive memory-based browser game designed to test concentration and memory skills. | [View Website](http://mahalakshmi-kommaranahalli.github.io/memory-master-game/) |
-| 🌋 **Landslide Sentinel AI** | An AI-based landslide risk monitoring and early-warning project. | [View Website](https://mahalakshmi-kommaranahalli.github.io/Landslide-Sentinel-AI/) |
-| 🏥 **MJ Hospital** | A modern web-based healthcare and hospital management project. | [View Website](https://mj-hospital.vercel.app/) |
+|  **ARROWHEAD — Infinite Logic** | A minimalist JavaScript logic game focused on patterns, speed, observation and decision-making. | [View Website](https://mahalakshmi-kommaranahalli.github.io/arrowhead/) |
+|  **Memory Master Game** | An interactive memory-based browser game designed to test concentration and memory skills. | [View Website](http://mahalakshmi-kommaranahalli.github.io/memory-master-game/) |
+|  **Landslide Sentinel AI** | An AI-based landslide risk monitoring and early-warning project. | [View Website](https://mahalakshmi-kommaranahalli.github.io/Landslide-Sentinel-AI/) |
+|  **MJ Hospital** | A modern web-based healthcare and hospital management project. | [View Website](https://mj-hospital.vercel.app/) |
 
 ---
 
@@ -42,10 +42,10 @@ I believe in **learning by building** — creating projects, experimenting with 
 
 | Project | Description | Live Demo |
 |---|---|---|
-| 🏫 **CampusHub ERP** | A campus management platform designed for college-related operations and services. | [Open CampusHub ERP](https://campus-hub-erp-xi.vercel.app/) |
-| 📚 **VTU 2025 3rd Sem Notes** | VTU-focused study resources with syllabus, notes and learning materials. | [Open Notes](https://mahalakshmi-kommaranahalli.github.io/VTU-2025-3rd-Sem-Notes/) |
-| 📝 **Assignments** | A collection of academic assignments and web technology work. | [View Assignments](https://mahalakshmi-kommaranahalli.github.io/ASSIGNMENTS/) |
-| 🌐 **Web Technology Programs** | Web Technology laboratory programs and practical implementations. | [View Programs](https://mahalakshmi-kommaranahalli.github.io/Web-Technology-Programs/) |
+|  **CampusHub ERP** | A campus management platform designed for college-related operations and services. | [Open CampusHub ERP](https://campus-hub-erp-xi.vercel.app/) |
+|  **VTU 2025 3rd Sem Notes** | VTU-focused study resources with syllabus, notes and learning materials. | [Open Notes](https://mahalakshmi-kommaranahalli.github.io/VTU-2025-3rd-Sem-Notes/) |
+|  **Assignments** | A collection of academic assignments and web technology work. | [View Assignments](https://mahalakshmi-kommaranahalli.github.io/ASSIGNMENTS/) |
+|  **Web Technology Programs** | Web Technology laboratory programs and practical implementations. | [View Programs](https://mahalakshmi-kommaranahalli.github.io/Web-Technology-Programs/) |
 
 ---
 
@@ -79,13 +79,13 @@ I believe in **learning by building** — creating projects, experimenting with 
 
 ## 📚 Currently Learning
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Development
-- 🐳 Docker & Deployment
-- 🗄️ Database Management
-- ☁️ Cloud & Backend Technologies
-- 🔐 Secure and scalable application development
-- 🚀 Building and deploying real-world applications
+-  Artificial Intelligence & Machine Learning
+-  Full-Stack Development
+-  Docker & Deployment
+-  Database Management
+-  Cloud & Backend Technologies
+-  Secure and scalable application development
+-  Building and deploying real-world applications
 
 ---
 
