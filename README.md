@@ -125,13 +125,13 @@ Somewhere along the way, I met someone who made me look at **engineering differe
 
 ### 👨‍💻 Code Blaster
 
-A mentor who inspired me to **learn beyond the classroom, build projects, experiment with technology, and believe that I can create something of my own.**
+A Guide who inspired me to **learn beyond the classroom, build projects, experiment with technology, and believe that I can create something of my own.**
 
 The encouragement to **keep learning, keep building, and keep exploring** became one of the reasons I started turning my ideas into actual projects.
 
 This project is a small expression of that gratitude.
 
-🌟 **[✨ Code Blaster-Teachers Day](https://mahalakshmi-kommaranahalli.github.io/code-blaster-teachers-day/)**
+ **[✨ Code Blaster-Teachers Day](https://mahalakshmi-kommaranahalli.github.io/code-blaster-teachers-day/)**
 
 > *“Sometimes one person's guidance can change the way you see an entire journey.”*
 
